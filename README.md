@@ -208,6 +208,37 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - **Local Storage**: Offline songs stored locally on your device
 - **No Tracking**: Minimal data collection, user privacy respected
 - **Secure APIs**: All external API calls secured and rate-limited
+## 🌸 GSSoC 2025 Contributor Notice
+
+<p align="center">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1623661215136/jPWcZyekD.png" width="600" alt="GSSoC 2025">
+</p>
+
+🎉 This repository is part of **[GirlScript Summer of Code (GSSoC) 2025](https://gssoc.girlscript.tech/)**!  
+We welcome all contributors participating in GSSoC to collaborate, learn, and make an impact together. Whether you're new to open source or a seasoned developer, we value your contributions!
+
+### 🪄 Points Allocation
+
+| Difficulty Level | Points Awarded |
+|------------------|----------------|
+| Level 1          | 3 - 4 Points   |
+| Level 2          | 5 - 7 Points   |
+| Level 3          | 8 - 10 Points  |
+
+✅ Points are awarded based on the quality, complexity, and impact of the PR. Maintainers may adjust values depending on effort and innovation.
+
+---
+
+## 🌟 Contributors
+
+Thanks to all our amazing contributors! 🎉
+
+<p align="center">
+  <a href="https://github.com/powerstone666/MelodyMind/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=powerstone666/MelodyMind" />
+  </a>
+</p>
+
 
 ## 📄 **License**
 
